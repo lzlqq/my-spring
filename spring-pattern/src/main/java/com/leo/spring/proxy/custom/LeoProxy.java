@@ -1,4 +1,4 @@
-package com.leo.spring.custom;
+package com.leo.spring.proxy.custom;
 
 import javax.tools.JavaCompiler;
 import javax.tools.StandardJavaFileManager;

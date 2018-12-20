@@ -1,10 +1,10 @@
-package com.leo.spring.custom;
+package com.leo.spring.proxy.custom;
 
-import com.leo.spring.jdk.Person;
+import com.leo.spring.proxy.jdk.Person;
 
 import java.lang.reflect.Method;
 
-public class LeoMeipo implements  LeoInvocationHandler {
+public class LeoMeipo implements LeoInvocationHandler {
 
     private Person target;
 

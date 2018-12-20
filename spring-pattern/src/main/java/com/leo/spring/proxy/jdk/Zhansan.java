@@ -1,4 +1,6 @@
-package com.leo.spring.jdk;
+package com.leo.spring.proxy.jdk;
+
+import com.leo.spring.proxy.jdk.Person;
 
 public class Zhansan implements Person {
 

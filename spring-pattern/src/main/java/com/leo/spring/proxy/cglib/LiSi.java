@@ -1,4 +1,4 @@
-package com.leo.spring.cglib;
+package com.leo.spring.proxy.cglib;
 
 public class LiSi {
     public void findLove(){

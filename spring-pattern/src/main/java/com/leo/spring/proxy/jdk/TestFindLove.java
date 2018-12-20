@@ -1,8 +1,8 @@
-package com.leo.spring.jdk;
+package com.leo.spring.proxy.jdk;
 
-import com.leo.spring.cglib.LeoCglibMeipo;
-import com.leo.spring.cglib.LiSi;
-import com.leo.spring.custom.LeoMeipo;
+import com.leo.spring.proxy.cglib.LeoCglibMeipo;
+import com.leo.spring.proxy.cglib.LiSi;
+import com.leo.spring.proxy.custom.LeoMeipo;
 import sun.misc.ProxyGenerator;
 
 import java.io.FileOutputStream;

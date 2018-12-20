@@ -1,4 +1,4 @@
-package com.leo.spring.custom;
+package com.leo.spring.proxy.custom;
 
 import java.lang.reflect.Method;
 

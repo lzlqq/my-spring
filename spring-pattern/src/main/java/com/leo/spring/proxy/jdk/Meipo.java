@@ -1,4 +1,4 @@
-package com.leo.spring.jdk;
+package com.leo.spring.proxy.jdk;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
